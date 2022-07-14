@@ -2,13 +2,11 @@
 
 ## I'm a *full stack developer* and *UX designer* living in Brazil.
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://linkedin.com/in/samuweb)
-[My CV @ LinkedIn](https://linkedin.com/in/samuweb)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" />  [My CV @ LinkedIn](https://linkedin.com/in/samuweb)
 
-[![Behance](https://cdn-icons-png.flaticon.com/24/1051/1051387.png)](https://behance.net/samuelnasta)
-[My portfolio @ Behance](https://behance.net/samuelnasta)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="24" />  [My portfolio @ Behance](https://behance.net/samuelnasta)
 
-<br /><br />
+<br />
 
 ## Front end
 
