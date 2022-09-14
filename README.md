@@ -2,7 +2,7 @@
 
 ## I'm a *full stack developer* and *UX designer* living in Brazil.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" />  [My CV @ LinkedIn](https://linkedin.com/in/samuweb)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" />  [My CV @ LinkedIn](https://www.linkedin.com/in/samunasser)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="24" />  [My portfolio @ Behance](https://behance.net/samuelnasta)
 
